@@ -32,7 +32,9 @@ python game.py
 ## Contributors
 
 - **Professor Reza Khojasteh** (Instructor, Seneca Polytechnic, DSA456, 2023 Fall)  
-- **Di Liu** - [dliu84](https://github.com/dliu84)  
+- **Di Liu** - [dliu84](https://github.com/dliu84)
+- **Henry Luong** - [lluong7](https://github.com/HenryLuong8888)
+- **Techatat Obun** - [tobun](https://github.com/Tobun3)
 
 ## Citation
 
