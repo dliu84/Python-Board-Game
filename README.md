@@ -36,8 +36,6 @@ python game.py
 - **Henry Luong** - [lluong7](https://github.com/HenryLuong8888)
 - **Techatat Obun** - [tobun](https://github.com/Tobun3)
 
-## Citation
+## License
 
-If you use this project in your work, please cite it as follows:
-
-> Di Liu (2025). *Python-Board-Game*. GitHub. [https://github.com/dliu84/Python-Board-Game](https://github.com/dliu84/Python-Board-Game)
+This project is licensed under the [MIT License](LICENSE).
